@@ -2,7 +2,7 @@
 - 👀 I’m interested in upcoming hardware tech (think phones and laptops)
 - 🌱 I’m currently learning Python, SQL, and their applications to data
 - 💞️ I’m looking to become a Data Analyst
-- 📫 How to reach me lehnminh@gmail.com
+- 📫 How to reach me: lehnminh@gmail.com
 
 <!---
 lhnminh/lhnminh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
