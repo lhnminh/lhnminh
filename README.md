@@ -6,6 +6,7 @@
 - 📫 Reach me at: lehnminh@gmail.com
 - 🏫 Check out my [Kaggle](https://www.kaggle.com/minhhnle) and [Leetcodes](https://leetcode.com/u/lhnminh/)
 
+[![SadServers Level](https://img.shields.io/badge/SadServers-Learning-455A64?style=for-the-badge&labelColor=FFC400&logo=githubcopilot&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
 ---
 
 📂 **Check out my [Data Portfolio](#)**  
