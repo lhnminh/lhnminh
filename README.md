@@ -4,28 +4,20 @@ lhnminh/lhnminh is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-```bash
-> working on
-data systems
-machine learning
-software experiments
+```yaml
+focus:
+  - data systems
+  - machine learning
+  - software experiments
 
-> current
-msds @ columbia
+current:
+  - msds @ columbia
 
-> previous
-shopee
-bcg
-peloton
-wayfair
-samsung
-ericsson
-```
-
-```python
-focus = [
-    "geospatial ml",
-    "data systems",
-    "software experiments"
-]
+previous:
+  - shopee
+  - bcg
+  - peloton
+  - wayfair
+  - samsung
+  - ericsson
 ```
