@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 ```yaml
 focus:
   - data systems
-  - geospatial ml
+  - ml
   - software experiments
 
 current:
