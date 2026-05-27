@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ```yaml
-focus:
+working on:
   - data systems
   - machine learning
   - software experiments
@@ -17,7 +17,6 @@ previous:
   - shopee
   - bcg
   - peloton
-  - wayfair
   - samsung
   - ericsson
 ```
