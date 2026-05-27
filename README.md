@@ -4,16 +4,20 @@ lhnminh/lhnminh is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-working on data systems, geospatial ml, and software experiments.
+```yaml
+focus:
+  - data systems
+  - geospatial ml
+  - software experiments
 
----
+current:
+  - msds @ columbia
 
-currently  
-msds @ columbia
-
-previously  
-shopee / bcg / peloton / samsung / ericsson
-
-<br>
-
-[website](https://lhnminh.github.io)
+previous:
+  - shopee
+  - bcg
+  - peloton
+  - wayfair
+  - samsung
+  - ericsson
+```
