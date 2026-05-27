@@ -12,7 +12,7 @@ currently
 msds @ columbia
 
 previously  
-shopee / bcg / peloton / wayfair / samsung / ericsson
+shopee / bcg / peloton / samsung / ericsson
 
 <br>
 
