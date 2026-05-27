@@ -21,3 +21,11 @@ wayfair
 samsung
 ericsson
 ```
+
+```python
+focus = [
+    "geospatial ml",
+    "data systems",
+    "software experiments"
+]
+```
