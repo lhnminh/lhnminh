@@ -4,8 +4,6 @@ lhnminh/lhnminh is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-minh le
-
 working on data systems, ml, and software experiments.
 
 currently:
